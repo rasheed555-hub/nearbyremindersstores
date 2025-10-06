@@ -1,0 +1,81 @@
+{
+  "stores": [
+    {
+      "id": "coles-pointcook-1",
+      "retailer": "Coles",
+      "name": "Coles Point Cook Town Centre",
+      "address": "5 Main Street, Point Cook VIC 3030",
+      "latitude": -37.88337,
+      "longitude": 144.73539,
+      "suburb": "Point Cook",
+      "state": "VIC",
+      "postcode": "3030"
+    },
+    {
+      "id": "woolworths-pointcook-1",
+      "retailer": "Woolworths",
+      "name": "Woolworths Point Cook",
+      "address": "1 Main Street, Point Cook VIC 3030",
+      "latitude": -37.88337,
+      "longitude": 144.73539,
+      "suburb": "Point Cook",
+      "state": "VIC",
+      "postcode": "3030"
+    },
+    {
+      "id": "coles-sanctuarylakes-1",
+      "retailer": "Coles",
+      "name": "Coles Sanctuary Lakes",
+      "address": "Point Cook Road & Jamieson Wy, Sanctuary Lakes, VIC 3030",
+      "latitude": -37.8940,
+      "longitude": 144.7480,
+      "suburb": "Sanctuary Lakes",
+      "state": "VIC",
+      "postcode": "3030"
+    },
+    {
+      "id": "aldi-pointcook-mainstreet-1",
+      "retailer": "Aldi",
+      "name": "ALDI Point Cook (Main Street)",
+      "address": "4 Main Street, Point Cook VIC 3030",
+      "latitude": -37.88337,
+      "longitude": 144.73539,
+      "suburb": "Point Cook",
+      "state": "VIC",
+      "postcode": "3030"
+    },
+    {
+      "id": "aldi-pointcook-road-300-1",
+      "retailer": "Aldi",
+      "name": "ALDI Point Cook (Point Cook Rd 300)",
+      "address": "300 Point Cook Road, Point Cook VIC 3030",
+      "latitude": -37.9030,
+      "longitude": 144.7480,
+      "suburb": "Point Cook",
+      "state": "VIC",
+      "postcode": "3030"
+    },
+    {
+      "id": "bunnings-hopperscrossing-1",
+      "retailer": "Bunnings",
+      "name": "Bunnings Warehouse Hoppers Crossing",
+      "address": "221-231 Old Geelong Road, Hoppers Crossing VIC 3029",
+      "latitude": -37.87509,
+      "longitude": 144.71319,
+      "suburb": "Hoppers Crossing",
+      "state": "VIC",
+      "postcode": "3029"
+    },
+    {
+      "id": "iga-saltwater-1",
+      "retailer": "IGA",
+      "name": "IGA Saltwater",
+      "address": "221-231 Old Geelong Road, Hoppers Crossing VIC 3029",
+      "latitude": -37.91130,
+      "longitude": 144.77134,
+      "suburb": "Hoppers Crossing",
+      "state": "VIC",
+      "postcode": "3029"
+    }
+  ]
+}
